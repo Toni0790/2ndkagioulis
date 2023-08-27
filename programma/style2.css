@@ -1,0 +1,24 @@
+body{
+    color: beige;
+    text-decoration: none;
+  }
+  
+  .html{
+    height: -webkit-fill-available;
+  }
+  
+  .myskia{
+    background: rgb(59, 58, 58 , 0.9);
+    color: beige;
+  }
+  
+  body{
+    height: 80%;
+  }
+  
+  
+  /* Set the background color of body to tan */
+body {
+  background-color: tan;
+}
+  

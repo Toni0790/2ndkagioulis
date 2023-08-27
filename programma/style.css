@@ -1,0 +1,45 @@
+.myskia {
+    width:500px;
+    height:190px;
+    background-color:rgba(0, 0, 0, 0.5);
+    padding-top:20px;
+    padding-left:15px;
+    padding-right:15px;
+}
+.ypiresies {
+    float:left;
+    width: 150px;
+    height: 140px;
+    background-color:lightblue;
+    border:solid #020E29;
+    text-align: center;
+}
+.misthodo {
+    float:left  ;
+    width:150px;
+    height: 140px;
+    background-color:lightblue; 
+    border:solid #020E29;
+    margin-left:20px;
+    text-align: center;
+}
+.forologik {
+    float:right;
+    width:150px;
+    height: 140px;
+    background-color:lightblue;
+    border:solid #020E29;
+    text-align: center;
+    
+}
+
+/* Set the background color of body to tan */
+body {
+  background-color: tan;
+}
+
+
+a{
+  color: #020E29;
+  text-decoration: none;
+}
